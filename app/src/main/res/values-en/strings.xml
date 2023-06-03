@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">GExame</string>
+    <string name="app_name">ExamEase</string>
     <string name="nome_do_exame">exam name...</string>
     <string name="unidade_de_atendimento">care unit...</string>
     <string name="solicita_o_de_exame">Exam Request</string>

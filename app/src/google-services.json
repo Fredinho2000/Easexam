@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76597109581",
+    "project_id": "easeexam-83117",
+    "storage_bucket": "easeexam-83117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76597109581:android:87e7a1e77868a9c1834d04",
+        "android_client_info": {
+          "package_name": "com.br.gexame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76597109581-2jkat330q14n8lpuq6e2erajhpkqjo5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-F7PLtTHQHMEAKkxXCCcie0LjIo4pYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76597109581-2jkat330q14n8lpuq6e2erajhpkqjo5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
